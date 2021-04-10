@@ -12,3 +12,5 @@ As a result i get
 ```
 The block number is: 12201493
 ```
+## Dificulties
+I have several dificulties with solidity Installation
